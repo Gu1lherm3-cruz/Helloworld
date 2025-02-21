@@ -4,7 +4,7 @@ Realizar os seguintes passos:
 1- Ler documentos;
 2- Criar arquivo no formato txt;
 3- Incluir um cabeçalho com o nome da Instituição e a data;
-4- Inclusão do nome;
+4- Incluir dados pessoais
 
 Att,
 XPTO
