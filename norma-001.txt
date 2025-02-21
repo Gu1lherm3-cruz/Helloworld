@@ -1,0 +1,10 @@
+Este é o arquivo da norma 001
+Realizar os seguintes passos:
+
+1- Ler documentos
+2- Criar arquivo no formato txt
+
+
+
+Att,
+XPTO
